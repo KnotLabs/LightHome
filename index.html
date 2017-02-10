@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+    {% for post in site.posts %}
+      <div class="col-md-3 col-sm-4">
+        <a class="album-post" href="{{ post.url | prepend: site.baseurl }}">
+          <div class="album-post__art" style="background-image: url({{ site.baseurl }}/img/art/{{post.art}})"></div>
+          <span class="album-post__album">{{ post.title }}</span>
+          <br>
+          <span class="album-post__artist">{{ post.artist }}</span>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>

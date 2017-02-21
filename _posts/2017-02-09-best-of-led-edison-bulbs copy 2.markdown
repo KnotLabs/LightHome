@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "First Post"
 ---
 
 Wow this is so cool that this is the first post! Right on!

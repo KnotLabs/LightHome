@@ -2,26 +2,26 @@
 layout: post
 ---
 
-## What is LED? 
-- Its a chip that converts electricity into light 
-- Durable outside and inside in low and high temperatures (depending on exact model), many options are waterproof as well.
+
+## String Lighting
+
+Also known as Christmas Tree lights, string lights are a cute and fun way to accent trees, furniture, rooms, or just about anything you can wrap in string covered with lights! 
+
+### Color Temperature
+- Why important? 
+- What is?
 
 
-## Why are LED's better?
-### More Energy Efficient
-### Longer lasting
-### Most types have color changing options available
-### Many Types of LED lighting available 
-#### Normal Bulbs
-#### Edison Bulbs
-#### Strip Lighting (Accent & Under Cabinet)
-#### Recessed Lighting
-#### Christmas Tree / String Lighting
-### Inexpensive control over wifi/app/Alexa controlled options available 
-#### TP-Link Wifi Bulb
-#### GE Smartlink 
-#### Magic-Home products
-#### Phillips Hue
+### Types of String Lights
+
+#### Christmas Tree lights replacement
 
 
+
+#### Metal Wire LED Strings
+
++ Great for stuffing into jars (picture)
++ Great for accenting art, furniture, rooms (pictures)
++ Inexpensive
++ Different Controller options
 

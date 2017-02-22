@@ -15,6 +15,8 @@ layout: post
 #### Normal Bulbs
 #### Edison Bulbs
 #### Strip Lighting (Accent & Under Cabinet)
+##### Waterproof vs not waterproof
+##### Portable Strip Lighting (bikes/skateboards/backpacks/costumes)
 #### Recessed Lighting
 #### Christmas Tree / String Lighting
 ### Inexpensive control over wifi/app/Alexa Bulbs 

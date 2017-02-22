@@ -16,5 +16,5 @@ layout: post
 #### [Edison Bulbs](/led/2017/02/22/edison-bulbs)
 #### [Strip Lighting](/led/2017/02/22/strip-lighting)
 #### [Recessed Lighting](/led/2017/02/22/recessed-lighting)
-#### [Christmas Tree / String Lighting](/led/2017/02/22/string-lighting)
+#### [Christmas Tree & String Lighting](/led/2017/02/22/string-lighting)
 #### [Wifi (iPhone / Android / Alexa / Siri) Controlled](/led/2017/02/22/wifi-controlled)

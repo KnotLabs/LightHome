@@ -12,5 +12,18 @@ layout: post
 ## Why are LED's better?
 ### More Energy Efficient
 ### Longer lasting
-### More types of bulbs/strips/colors available 
+### Most types have color changing options available
+### Many Types of LED lighting available 
+#### Normal Bulbs
+#### Edison Bulbs
+#### Strip Lighting (Accent & Under Cabinet)
+#### Recessed Lighting
+#### Christmas Tree / String Lighting
 ### Inexpensive control over wifi/app/Alexa controlled options available 
+#### TP-Link Wifi Bulb
+#### GE Smartlink 
+#### Magic-Home products
+#### Phillips Hue
+
+
+

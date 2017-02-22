@@ -1,0 +1,98 @@
+---
+layout: default
+---
+<!-- <script src="{{ site.url }}/js/raphael.js"></script>
+<script src="{{ site.url }}/js/jquery.usmap.js"></script>
+<script>
+  $(function(){
+    $('#map').usmap({
+      // The click action
+      click: function(event, data) {
+        $('#clicked-state')
+          .text('You clicked: '+data.name)
+          .parent().effect('highlight', {color: '#C7F464'}, 2000);
+      }
+    });
+  });
+</script>
+
+
+<div class="container">
+  <div id="map" style="width: 50vw; height: 20vw;"></div>
+  <div id="clicked-state"></div>
+</div>
+ -->
+
+ <!-- Styles -->
+<style>
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
+</style>
+
+<!-- Resources -->
+<script src="https://www.amcharts.com/lib/3/ammap.js"></script>
+<script src="https://www.amcharts.com/lib/3/maps/js/usaLow.js"></script>
+<script src="https://www.amcharts.com/lib/3/plugins/export/export.min.js"></script>
+<link rel="stylesheet" href="https://www.amcharts.com/lib/3/plugins/export/export.css" type="text/css" media="all" />
+<script src="https://www.amcharts.com/lib/3/themes/light.js"></script>
+
+<!-- Chart code -->
+<script>
+  var map = AmCharts.makeChart("chartdiv", {
+    "type": "map",
+    "theme": "light",
+    "dataProvider": {
+      "map": "usaLow",
+      "getAreasFromMap": true
+    },
+    "areasSettings": {
+      "selectedColor": "#CC0000",
+      "selectable": true
+    },
+    /**
+     * Add click event to track country selection/unselection
+     */
+    "listeners": [{
+      "event": "clickMapObject",
+      "method": function(e) {
+
+        // Ignore any click not on area
+        if (e.mapObject.objectType !== "MapArea")
+          return;
+
+        var area = e.mapObject;
+
+        // Toggle showAsSelected
+        area.showAsSelected = !area.showAsSelected;
+        e.chart.returnInitialColor(area);
+
+        // Update the list
+        document.getElementById("selected").innerHTML = JSON.stringify(getSelectedCountries());
+      }
+    }]
+  });
+
+  /**
+   * Function which extracts currently selected country list.
+   * Returns array consisting of country ISO2 codes
+   */
+  function getSelectedCountries() {
+    var selected = [];
+    for(var i = 0; i < map.dataProvider.areas.length; i++) {
+      if(map.dataProvider.areas[i].showAsSelected)
+        selected.push(map.dataProvider.areas[i].id);
+    }
+    return selected;
+  }
+</script>
+
+<!-- HTML -->
+  <header class="post-header mb-4">
+    <h1 class="post-title">State LED Incentives and Rebates</h1>
+  </header>
+
+  <div class="container">
+    <div id="chartdiv"></div>
+  </div>

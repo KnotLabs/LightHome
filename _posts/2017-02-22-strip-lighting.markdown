@@ -32,7 +32,39 @@ layout: post
     - Bicycle
 
 
-### Options
+### How do I get it?
+
+You need three things:
+
+### Strip
+  
+### Controller
+
+#### IR (Traditional TV Style) Remote 
+  - Requires line of sight
+  
+  + Low cost
+  + Can be controlled with universal remote if you have one
+
+#### RF (Goes through walls) Remote
+  - Goes through walls
+  
+  + More expensive than IR. 
+ 
+#### [Wifi Controlled](/led/2017-02-22-wifi-controlled)
+  + Most fine tuned control, control right from your phone
+  + Can also get Alexa and / or Siri control
+  
+  - Sometimes it means *only* wifi control, which has its downsides
+  - More expensive than RF
+  - 
+
+### Power source
+  - How to calculate how many amps/watts rated power source to get? 
+  - Links
+  
+  
+### Other Considerations
 
 #### Waterproof
   - Waterproof is great for outdoor or boat use

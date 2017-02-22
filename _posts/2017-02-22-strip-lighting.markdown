@@ -37,7 +37,7 @@ You need three things.
 
 #### [Color Temperature](/led/2017/02/color-temperature)
 
-Read Lighthome's quick explanation of [Color Temperature](/led/2017/02/22/color-temperature) so you know what we're talking about when we say "warm white" or "cool white". 
+Read Lighthome's quick explanation of [Color Temperature](/led/2017/02/color-temperature) so you know what we're talking about when we say "warm white" or "cool white". 
 
 #### What is RGB and RGBWW
   - RGB = Red Green Blue

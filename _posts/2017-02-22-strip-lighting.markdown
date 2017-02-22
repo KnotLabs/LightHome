@@ -72,7 +72,7 @@ An 'RF Remote' is a remote controller that uses Radio Frequency (RF) to communic
   - Links 
 
  
-#### [Wifi Controlled](/led/2017/02/22/wifi-controlled)
+#### [Wifi Controlled](/led/2017/02/wifi-controlled)
   + Most fine tuned control, control right from your phone
   + Can also get Alexa and / or Siri control
   

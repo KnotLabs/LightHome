@@ -24,8 +24,14 @@ layout: post
 ### How do I get it?
 
 You need three things. 
+
 1) A strip. The strip is the actual lights, like the light bulb itself.
-2) A controller. You need a way to tell the strips when to turn on an off, like a remote, or a switch, or 
+
+2) A controller. You need a way to tell the strips when to turn on an off, like a remote, or a switch. 
+
+3) A power source. This is what plugs into your wall and powers the LED strip. 
+
+
 
 ### Strip
 

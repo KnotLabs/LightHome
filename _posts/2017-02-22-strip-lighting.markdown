@@ -3,7 +3,7 @@ layout: post
 ---
 
 ## Strip Lighting
-- Strips of LED's allow you to cover just about anything in bright LED lights!
+- Strips of LEDs allow you to cover just about anything in bright LED lights!
 - Can be color changing (RGB) or standard white (WW) or both (RGBWW)
 
 #### Usages

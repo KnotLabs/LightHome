@@ -35,6 +35,10 @@ You need three things.
 
 ### Strip
 
+#### [Color Temperature](/led/2017/02/22/color-temperature)
+
+Read Lighthome's quick explanation of [Color Temperature](/led/2017/02/22/color-temperature) so you know what we're talking about when we say "warm white" or "cool white". 
+
 #### What is RGB and RGBWW
   - RGB = Red Green Blue
   - This means that each diode of the LED bulb has three smaller LEDs inside of it - one Red, one Green, and one Blue. By dimming the individual R, G, and B elements at different amounts, you can mix together nearly any color you can imaine!

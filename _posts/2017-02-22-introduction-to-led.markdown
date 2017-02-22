@@ -17,7 +17,7 @@ layout: post
 #### Strip Lighting (Accent & Under Cabinet)
 #### Recessed Lighting
 #### Christmas Tree / String Lighting
-### Inexpensive control over wifi/app/Alexa controlled options available 
+### Inexpensive control over wifi/app/Alexa Bulbs 
 #### TP-Link Wifi Bulb
 #### GE Smartlink 
 #### Magic-Home products

@@ -6,17 +6,6 @@ layout: post
 - Strips of LED's allow you to cover just about anything in bright LED lights!
 - Can be color changing (RGB) or standard white (WW) or both (RGBWW)
 
-### Strips 
-#### What is RGB and RGBWW
-  - RGB = Red Green Blue
-  - This means that each diode of the LED bulb has three smaller LEDs inside of it - one Red, one Green, and one Blue. By dimming the individual R, G, and B elements at different amounts, you can mix together nearly any color you can imaine!
-
-#### 150 vs 300 LED's per 5M
-  - Standard strip length is 5 meters, or 16.4 feet
-  - Some strips have 150 LEDs per 5M, some have 300
-     - 300 LEDs per strip will be twice as bright but use twice as much electricity. 
-     - However, since LEDs are so energy efficient, Lighthome reccommends 300 LEDs per strip for typical usage.  
-
 #### Usages
   - General lighting (picture)
   - Accent lighting 
@@ -34,9 +23,23 @@ layout: post
 
 ### How do I get it?
 
-You need three things:
+You need three things. 
+1) A strip. The strip is the actual lights, like the light bulb itself.
+2) A controller. You need a way to tell the strips when to turn on an off, like a remote, or a switch, or 
 
 ### Strip
+
+#### What is RGB and RGBWW
+  - RGB = Red Green Blue
+  - This means that each diode of the LED bulb has three smaller LEDs inside of it - one Red, one Green, and one Blue. By dimming the individual R, G, and B elements at different amounts, you can mix together nearly any color you can imaine!
+
+#### 150 vs 300 LED's per 5M
+  - Standard strip length is 5 meters, or 16.4 feet
+  - Some strips have 150 LEDs per 5M, some have 300
+     - 300 LEDs per strip will be twice as bright but use twice as much electricity. 
+     - However, since LEDs are so energy efficient, Lighthome reccommends 300 LEDs per strip for typical usage.  
+
+
   
 ### Controller
 
@@ -46,10 +49,18 @@ You need three things:
   + Low cost
   + Can be controlled with universal remote if you have one
 
+  - Links 
+
 #### RF (Goes through walls) Remote
+
+An 'RF Remote' is a remote controller that uses Radio Frequency (RF) to communicate to the lights. This is like a 
+
   - Goes through walls
   
   + More expensive than IR. 
+  
+  - Links 
+
  
 #### [Wifi Controlled](/led/2017-02-22-wifi-controlled)
   + Most fine tuned control, control right from your phone
@@ -57,11 +68,27 @@ You need three things:
   
   - Sometimes it means *only* wifi control, which has its downsides
   - More expensive than RF
-  - 
 
+#### RF Outlets
+
+An 'RF Outlet' has its pros and cons, but for installls when all you need is a simple 'on' and 'off' control (for example when using as a general area light for a room), an 'RF Outlet' might be just what you need. An 'RF Outlet' is simply an inexpensive way to connect an outlet (plug in the wall) to a remote control switch (picture: two buttons 'on' and 'off') that you can mount on a wall like a light switch, or put on a desk or table (or anything else you can imagine). This way you can easily turn your lights on and off by simply clicking on the remote. 
+
+  + Super simple
+  + Works through walls
+  
+  - Least control (on and off only)
+  - Typically requires another controller to actually control the LED voltages
+  - When off, it effectively disables all other controllers
+
+  - Links 
+  
 ### Power source
-  - How to calculate how many amps/watts rated power source to get? 
-  - Links
+
+The power source is what actually powers your lights. It's basically like the charging brick and cord that you use to charge your laptop. It plugs into your wall on one end, and into the controller for the light strip on the other end. 
+
+#### How to calculate how many amps/watts rated power source to get? 
+#### How to tell quality? 
+#### Links
   
   
 ### Other Considerations

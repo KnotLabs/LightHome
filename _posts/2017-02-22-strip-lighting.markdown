@@ -27,6 +27,9 @@ layout: post
     - Under car lighting (picture)
     - Boat lighting (picture)
     - Under deck / raliing (picture) 
+  - Portable lighting
+    - Hard to reach places (dart board?)
+    - Bicycle
 
 
 ### Options

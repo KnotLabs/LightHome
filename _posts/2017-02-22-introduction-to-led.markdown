@@ -12,18 +12,9 @@ layout: post
 ### Longer lasting
 ### Most types have color changing options available
 ### Many Types of LED lighting available 
-#### Normal Bulbs
-#### Edison Bulbs
-#### [Strip Lighting](/2017-02-22-strip-lighting)
-##### Waterproof vs not waterproof
-##### Portable Strip Lighting (bikes/skateboards/backpacks/costumes)
+#### [Normal Bulbs]](/led/2017-02-22-normal-bulbs)
+#### [Edison Bulbs]](/led/2017-02-22-edison-bulbs)
+#### [Strip Lighting](/led/2017-02-22-strip-lighting)
 #### Recessed Lighting
-#### Christmas Tree / String Lighting
-#### Inexpensive control over wifi/app/Alexa Bulbs 
-##### TP-Link Wifi Bulb
-##### GE Smartlink 
-##### Magic-Home products
-##### Phillips Hue
-
-
-
+#### [Christmas Tree / String Lighting](/led/2017-02-22-string-lighting)
+#### [Inexpensive control over wifi/app/Alexa Bulbs](/led/2017-02-22-wifi-controlled)

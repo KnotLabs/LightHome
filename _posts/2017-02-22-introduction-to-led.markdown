@@ -19,11 +19,11 @@ layout: post
 ##### Portable Strip Lighting (bikes/skateboards/backpacks/costumes)
 #### Recessed Lighting
 #### Christmas Tree / String Lighting
-### Inexpensive control over wifi/app/Alexa Bulbs 
-#### TP-Link Wifi Bulb
-#### GE Smartlink 
-#### Magic-Home products
-#### Phillips Hue
+#### Inexpensive control over wifi/app/Alexa Bulbs 
+##### TP-Link Wifi Bulb
+##### GE Smartlink 
+##### Magic-Home products
+##### Phillips Hue
 
 
 

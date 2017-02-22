@@ -11,5 +11,7 @@ Normal, regular old lightbulbs are way better when you switch to LEDs!
 
 #### Lumens are the new watts
 
+#### [Color Temperature](/led/2017/02/22/color-temperature)
+
 
 ### Links 

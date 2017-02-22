@@ -14,7 +14,7 @@ layout: post
 ### Many Types of LED lighting available 
 #### Normal Bulbs
 #### Edison Bulbs
-#### Strip Lighting (Accent & Under Cabinet)
+#### [Strip Lighting](/2017-02-22-strip-lighting)
 ##### Waterproof vs not waterproof
 ##### Portable Strip Lighting (bikes/skateboards/backpacks/costumes)
 #### Recessed Lighting

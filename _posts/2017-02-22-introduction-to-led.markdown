@@ -17,4 +17,4 @@ layout: post
 #### [Strip Lighting](/led/2017/02/22/strip-lighting)
 #### [Recessed Lighting](/led/2017/02/22/recessed-lighting)
 #### [Christmas Tree / String Lighting](/led/2017/02/22/string-lighting)
-#### [Inexpensive control over wifi/app/Alexa Bulbs](/led/2017/02/22/wifi-controlled)
+#### [Wifi Controlled](/led/2017/02/22/wifi-controlled)

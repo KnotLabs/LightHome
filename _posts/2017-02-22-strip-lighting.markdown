@@ -77,7 +77,7 @@ An 'RF Remote' is a remote controller that uses Radio Frequency (RF) to communic
 
 #### RF Outlets
 
-An 'RF Outlet' has its pros and cons, but for installls when all you need is a simple 'on' and 'off' control (for example when using as a general area light for a room), an 'RF Outlet' might be just what you need. An 'RF Outlet' is simply an inexpensive way to connect an outlet (plug in the wall) to a remote control switch (picture: two buttons 'on' and 'off') that you can mount on a wall like a light switch, or put on a desk or table (or anything else you can imagine). This way you can easily turn your lights on and off by simply clicking on the remote. 
+An 'RF Outlet' has its pros and cons, but for installls when all you need is a simple 'on' and 'off' control (for example when using as a general area light for a room), an 'RF Outlet' might be just what you need. An 'RF Outlet' is simply an inexpensive way to connect an outlet (plug in the wall) to a remote control switch (picture: two buttons 'on' and 'off') that you can mount on a wall like a light switch, or put on a desk or table (or anything else you can imagine). This way you can easily turn your lights on and off by simply clicking on the remote. We at Lighthome use a few RF Outlets for controlling 
 
   + Super simple
   + Works through walls

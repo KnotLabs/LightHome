@@ -6,7 +6,7 @@ layout: post
 - Strips of LEDs allow you to cover just about anything in bright LED lights!
 - Can be color changing (RGB) or standard white (WW) or both (RGBWW)
 
-#### Usages
+#### Uses / Design Ideas
   - General lighting (picture)
   - Accent lighting 
     - Under Cabinet (picture)

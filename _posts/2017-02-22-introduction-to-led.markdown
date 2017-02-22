@@ -15,6 +15,6 @@ layout: post
 #### [Normal Bulbs]](/led/2017-02-22-normal-bulbs)
 #### [Edison Bulbs]](/led/2017-02-22-edison-bulbs)
 #### [Strip Lighting](/led/2017-02-22-strip-lighting)
-#### Recessed Lighting
+#### [Recessed Lighting]](/led/2017-02-22-recessed-lighting)
 #### [Christmas Tree / String Lighting](/led/2017-02-22-string-lighting)
 #### [Inexpensive control over wifi/app/Alexa Bulbs](/led/2017-02-22-wifi-controlled)

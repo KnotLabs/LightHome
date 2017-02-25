@@ -55,4 +55,19 @@ layout: default
 
   <div class="container">
     <div id="chartdiv"></div>
+    {% for post in site.categories['incentives'] %}
+      <div class="col-sm-4">
+        <a class="card small-post" href="{{ post.url | prepend: site.baseurl }}">
+          <img class="card-img-top w-100" src="{{ site.baseurl }}/img/posts/{{ post.title | slugify }}/main.jpg">
+          <div class="card-block">
+            <!-- <a class="small-post" href="{{ post.url | prepend: site.baseurl }}"> -->
+              <!-- <div class="small-post__thumbnail mb-3" style="background-image: url( {{ site.baseurl }}/img/posts/{{ post.title | slugify }}/main.jpg )"></div> -->
+              <div class="small-post__title">{{ post.title }}</div>
+              <div class="text-muted small-post__date">{{ post.date | date_to_long_string }}</div>
+              <!-- {{ post.excerpt }} -->
+            <!-- </a> -->
+          </div>
+        </a>
+      </div>
+    {% endfor %}
   </div>

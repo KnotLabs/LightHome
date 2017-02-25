@@ -1,0 +1,49 @@
+---
+layout: post
+---
+
+## Top Picks
+
+These are Lighthome's top picks and packages that we personally use. 
+
+
+
+### Packages / Solutions
+
+#### Standard Bulbs Package
+
+#### General lighting LED Strip Package
+ - IR
+ - RF Outlet
+ - Wifi Controller (magic home)
+ 
+ 
+ 
+### LED Bulbs 
+
+#### Normal Bulb
+- Link 
+
+#### Edison Bulb
+- Link 
+
+
+#### Wifi Normal Bulb
+- Link 
+
+
+#### Wifi RGB Bulb
+- Link 
+
+#### IR RGB Bulb
+- Link 
+
+
+
+### LED Strips
+
+#### RGBWW Strip
+- Link 
+
+#### RGB Strip
+- Link

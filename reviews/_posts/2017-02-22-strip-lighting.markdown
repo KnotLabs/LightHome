@@ -3,10 +3,10 @@ layout: post
 ---
 
 ## Strip Lighting
-- Strips of LED's allow you to cover just about anything in bright LED lights!
+- Strips of LEDs allow you to cover just about anything in bright LED lights!
 - Can be color changing (RGB) or standard white (WW) or both (RGBWW)
 
-#### Usages
+#### Uses / Design Ideas
   - General lighting (picture)
   - Accent lighting 
     - Under Cabinet (picture)
@@ -21,9 +21,9 @@ layout: post
     - Bicycle
 
 
-### How do I get it?
+### What you need
 
-You need three things. 
+Strip lights have 3 components. 
 
 1) A strip. The strip is the actual lights, like the light bulb itself.
 
@@ -34,6 +34,10 @@ You need three things.
 
 
 ### Strip
+
+#### [Color Temperature](/led/2017/02/color-temperature)
+
+Read Lighthome's quick explanation of [Color Temperature](/led/2017/02/color-temperature) so you know what we're talking about when we say "warm white" or "cool white". 
 
 #### What is RGB and RGBWW
   - RGB = Red Green Blue
@@ -50,42 +54,57 @@ You need three things.
 ### Controller
 
 #### IR (Traditional TV Style) Remote 
-  - Requires line of sight
-  
+Pros: 
   + Low cost
   + Can be controlled with universal remote if you have one
+  
+Cons: 
+  - Requires line of sight
 
+What to buy: 
   - Links 
 
 #### RF (Goes through walls) Remote
 
 An 'RF Remote' is a remote controller that uses Radio Frequency (RF) to communicate to the lights. This is like a 
 
+Pros:
   - Goes through walls
   
-  + More expensive than IR. 
-  
+Cons: 
+  - More expensive than IR. 
+
+What to buy: 
   - Links 
 
  
-#### [Wifi Controlled](/led/2017/02/22/wifi-controlled)
+#### [Wifi Controlled](/led/2017/02/wifi-controlled)
+
+Pros: 
   + Most fine tuned control, control right from your phone
   + Can also get Alexa and / or Siri control
   
+Cons: 
   - Sometimes it means *only* wifi control, which has its downsides
   - More expensive than RF
+
+What to buy: 
+  - Links
 
 #### RF Outlets
 
 An 'RF Outlet' has its pros and cons, but for installls when all you need is a simple 'on' and 'off' control (for example when using as a general area light for a room), an 'RF Outlet' might be just what you need. An 'RF Outlet' is simply an inexpensive way to connect an outlet (plug in the wall) to a remote control switch (picture: two buttons 'on' and 'off') that you can mount on a wall like a light switch, or put on a desk or table (or anything else you can imagine). This way you can easily turn your lights on and off by simply clicking on the remote. We at Lighthome use a few RF Outlets for controlling 
 
+Pros: 
   + Super simple
   + Works through walls
   
+Cons: 
   - Least control (on and off only)
   - Typically requires another controller to actually control the LED voltages
   - When off, it effectively disables all other controllers
 
+What to buy: 
   - Links 
   
 ### Power source

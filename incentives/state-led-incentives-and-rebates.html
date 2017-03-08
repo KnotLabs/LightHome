@@ -41,7 +41,7 @@ layout: default
         area.showAsSelected = !area.showAsSelected;
         e.chart.returnInitialColor(area);
 
-        window.location.href = "{{ site.url }}/incentives/" + e.mapObject.enTitle + '-led-incentives-and-rebates'
+        window.location.href = "{{ site.url }}/incentives/" + e.mapObject.enTitle.toLowerCase().replace(' ', '-') + '-led-incentives-and-rebates'
 
       }
     }]

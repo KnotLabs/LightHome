@@ -41,7 +41,7 @@ layout: default
         area.showAsSelected = !area.showAsSelected;
         e.chart.returnInitialColor(area);
 
-        window.location.href = "{{ site.url }}/incentives/" + e.mapObject.enTitle.toLowerCase().replace(' ', '-') + '-led-incentives-and-rebates'
+        window.location.href = "{{ site.url }}/state-led-incentives-and-rebates/" + e.mapObject.enTitle.toLowerCase().replace(' ', '-');
 
       }
     }]
@@ -55,7 +55,7 @@ layout: default
 
   <div class="container">
     <div id="chartdiv"></div>
-    {% for post in site.categories['incentives'] %}
+    {% for post in site.categories['state-led-incentives-and-rebates'] %}
       <div class="col-sm-4">
         <a class="card small-post" href="{{ post.url | prepend: site.baseurl }}">
           <img class="card-img-top w-100" src="{{ site.baseurl }}/img/posts/{{ post.title | slugify }}/main.jpg">

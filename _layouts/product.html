@@ -15,7 +15,7 @@ layout: default
             <div class="clearfix">
               <div class="clearfix">
                 <h4 class="float-left mt-1">{{ page.title }}</h4>
-                <a href="{{ page.link }}" class="btn btn-danger float-right">Buy on Amazon for {{ page.price }}</a>
+                <a href="{{ page.link }}" class="btn btn-danger btn-danger-special float-right">Buy on Amazon for {{ page.price }}</a>
               </div>
               <hr />
               <p>
@@ -24,8 +24,9 @@ layout: default
               {{ content }}
             </div>
             <hr />
-            <a href="{{ page.link }}" class="btn btn-danger center">Buy on Amazon for {{ page.price }}</a>
+            <a href="{{ page.link }}" class="btn btn-danger btn-danger-special center">Buy on Amazon for {{ page.price }}</a>
             <hr />
+            <h4>Responses</h4>
             <div id="disqus_thread"></div>
           </div>
         </div>

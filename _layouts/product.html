@@ -13,7 +13,10 @@ layout: default
         <div class="post-content card w-100">
           <div class="card-block">
             <div class="clearfix">
-              <h4>{{ page.title }}</h4>
+              <div class="clearfix">
+                <h4 class="float-left mt-1">{{ page.title }}</h4>
+                <a href="{{ page.link }}" class="btn btn-danger float-right">Buy on Amazon for {{ page.price }}</a>
+              </div>
               <hr />
               <p>
                 <img src='{{ site.baseurl }}/img/{{ page.categories.first }}/{{ page.title | slugify }}/thumbnail.jpg'>
@@ -28,10 +31,6 @@ layout: default
       <div class="col-md-3">
         <div class="post-content card w-100">
           <div class="card-block">
-            <h4 class="text-center">
-              Price: {{ page.price }}
-            </h4>
-            <a href="{{ page.link }}" class="btn btn-danger w-100 mt-2">Buy on Amazon</a>
             <button type="button" class="btn btn-secondary w-100 mt-2" data-toggle="modal" data-target="#shareModal">Share</button>
 
             <!-- Modal -->

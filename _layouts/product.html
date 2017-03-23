@@ -16,10 +16,12 @@ layout: default
       <div class="col-sm-9">
         <div class="post-content card w-100">
           <div class="card-block">
-            <div class="row mb-3">
+            <h4>{{ page.title }}</h4>
+            <hr />
+            <div class="row">
               <div class="col">
                 <a href='{{ page.link }}'>
-                  <img class="card-img-top w-100" src='{{ site.baseurl }}/img/products/{{ page.title | slugify }}/thumbnail.jpg'>
+                  <img class="card-img-top w-100" src='{{ site.baseurl }}/img/{{ page.categories.first }}/{{ page.title | slugify }}/thumbnail.jpg'>
                 </a>
               </div>
               <div class="col">

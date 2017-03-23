@@ -10,6 +10,13 @@ body{
   max-width: 1000px;
 }
 
+.center{
+  position: relative;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 header.slant-header {
   position: relative;
   height: 300px;

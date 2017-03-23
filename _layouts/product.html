@@ -13,25 +13,21 @@ layout: default
 
   <div class="container">
     <div class="row">
-      <div class="col-sm-9">
+      <div class="col-md-9">
         <div class="post-content card w-100">
           <div class="card-block">
-            <div class="row mb-3">
-              <div class="col">
-                <a href='{{ page.link }}'>
-                  <img class="card-img-top w-100" src='{{ site.baseurl }}/img/products/{{ page.title | slugify }}/thumbnail.jpg'>
-                </a>
-              </div>
-              <div class="col">
-                {{ content }}
-              </div>
+            <div class="clearfix">
+              <p>
+                <img src='{{ site.baseurl }}/img/products/{{ page.title | slugify }}/thumbnail.jpg'>
+              </p>
+              {{ content }}
             </div>
             <hr />
             <div id="disqus_thread"></div>
           </div>
         </div>
       </div>
-      <div class="col-sm-3">
+      <div class="col-md-3">
         <div class="post-content card w-100">
           <div class="card-block">
             <h4 class="text-center">

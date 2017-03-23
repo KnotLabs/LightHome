@@ -11,15 +11,30 @@ layout: default
     <h1 class="post-title my-4">{{ page.title }}</h1>
   </header> -->
 
-  <div class="post-content card container">
-    <div class="card-block">
-      {{ content }}
-      <hr />
-      <div id="disqus_thread"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-9">
+        <div class="post-content card w-100">
+          <div class="card-block">
+            {{ content }}
+            <hr />
+            <div id="disqus_thread"></div>
 
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-3">
+        <div class="post-content card w-100">
+          <div class="card-block">
+            <h4 class="text-center">
+              Price: {{ page.price }}
+            </h4>
+            <a href="{{ page.link }}" class="btn btn-danger w-100">Buy Now</a>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
-
 </article>
 
 <script>

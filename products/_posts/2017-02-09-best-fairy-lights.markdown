@@ -1,5 +1,6 @@
 ---
 layout: product
+price: $14.99
 link: http://a.co/gMx59uz
 ---
 

@@ -35,7 +35,28 @@ layout: default
             <h4 class="text-center">
               Price: {{ page.price }}
             </h4>
-            <a href="{{ page.link }}" class="btn btn-danger w-100">Buy on Amazon</a>
+            <a href="{{ page.link }}" class="btn btn-danger w-100 mt-2">Buy on Amazon</a>
+            <button type="button" class="btn btn-secondary w-100 mt-2" data-toggle="modal" data-target="#shareModal">Share</button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="shareModal" tabindex="-1" role="dialog" aria-hidden="true">
+              <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <h5 class="modal-title">Share</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                      <span aria-hidden="true">&times;</span>
+                    </button>
+                  </div>
+                  <div class="modal-body">
+                    <input type="text" class="form-control" value="{{ site.url }}{{ page.url }}">
+                  </div>
+                  <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>

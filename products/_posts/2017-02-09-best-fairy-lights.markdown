@@ -1,8 +1,8 @@
 ---
 layout: product
-link: https://www.amazon.com/gp/product/B01J0WD050/ref=ox_sc_act_title_4?ie=UTF8&psc=1&smid=ATVPDKIKX0DER
+link: http://a.co/gMx59uz
 ---
 
-Wow this is so cool that this is the first post! Right on!
+These are the best fairy lights around. They create a very cozy glow and look great on the wall or in a jar.
 
-Here is an image ![Cool image](http://www.brettellis.net/wp-content/uploads/2015/09/cool-cat.jpg)
+[Best Fairy Lights](http://a.co/gMx59uz)

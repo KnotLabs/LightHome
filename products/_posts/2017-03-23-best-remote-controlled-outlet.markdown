@@ -6,9 +6,9 @@ link: http://amzn.to/2mxPdS0
 
 Remember [the Clapper](http://amzn.to/2nOoD7i)? "Clap on... clap off... the clapper!" Feels like they were a staple TV ad when I was growing up. These days, the options to control lights and outlets are endless, and I wouldn't recommend the Clapper to a friend.
 
-I have personally tested numerous switches and controllers and have found one that far exceeds the rest. The Etekcity Wireless Remote Control Electrical Outlet (also known as the Etekcity Zap) is the best piece of tech I have bought in years. It works by plugging one of the Etekcity outlets into an existing outlet in your home, then any device into the Etekcity outlet. Using the remote you can turn on and off the outlet switching on and off the device plugged into the Etekcity outlet.
+I have personally tested numerous switches and controllers and have found one that far exceeds the rest. The Etekcity Wireless Remote Control Electrical Outlet (also known as the Etekcity Zap) is the best piece of tech I have bought in years. The system is extremely user friendly, just plug one of the Etekcity outlets into any existing outlet in your home. Once you plug a device into Etekcity outlet, it can easily be controlled by a portable remote.
 
-It can be used for just about any device in your home. I use them in my apartment to turn my lights, lamps, white noise machine, and projector on and off. What makes them so great is they use radio frequency (RF) so you don't need a line of site to the outlet like you would with a TV remote and the TV. They have a 100 foot range and can travel through walls with ease so I can tuck the outlets away and they will still work seamlessly.
+It can be used for just about any device in your home. I use them in my apartment to turn my lights, lamps, white noise machine, and projector on and off. What makes them so great is they use radio frequency (RF) so you don't need a line of sight to the outlet like you would with a TV remote and the TV. They have a 100 foot range and can travel through walls with ease so I can tuck the outlets away and they will still work seamlessly.
 
 ![Wall Mount]({{ site.url }}/img/products/best-remote-controlled-outlet/wall-mount.jpg)
 

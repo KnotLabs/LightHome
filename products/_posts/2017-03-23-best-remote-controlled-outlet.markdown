@@ -12,12 +12,12 @@ It can be used for just about any device in your home. I use them in my apartmen
 
 ![Wall Mount]({{ site.url }}/img/products/best-remote-controlled-outlet/wall-mount.jpg)
 
-Another advantage to them being RF is that you don't need to actually point the remote at the outlets them selfs. This makes for some very clever placement of the removes. I have one remote attached to my wall with Command Velcro strips which turns into an alternative to my light switch for all of my devices.
+A real advantage to the radio frequency system is the ability to place remotes in your space as they will best serve you. I have one remote attached to my wall next to my light switch with Command velcro strips, which allows me to control all my devices easily when entering or exiting the room.
 
 <p></p>
 ![Nightstand Mount]({{ site.url }}/img/products/best-remote-controlled-outlet/nightstand-mount.jpg)
 
-I have the second remote also fastened to the edge of my nightstand. This is probably the favorite part of my setup. It makes controlling my room from my bed dead simple and best of all when I go to sleep I don't have to walk in the dark to my best, I just get into bed and click off the lights from the remote.
+I have my second remote fastened to the edge of my nightstand. This is probably my favorite part of my personal set up. I'm able to hop into bed and shut my lights off without trying to navigate in the dark.
 
 One of the best features of the Etekcity Zap is that all of the outlets are programmable and can listen on up to 3 channels. We use this in our apartment for our living room and kitchen. We set the lights on the kitchen outlet to Channel 1 and 5 on the remote and the light in the living room to Channel 2 and 5 on the same remote. This makes it so we can turn each one on or off individually on channel 1 or 2 but will turn them both on or off by clicking 5 on the remote. Pretty neat huh?
 

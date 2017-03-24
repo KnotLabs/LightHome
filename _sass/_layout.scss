@@ -1,10 +1,3 @@
-// @import url('https://fonts.googleapis.com/css?family=Montserrat');
-
-body{
-  font-size: 16px;
-  // font-family: 'Montserrat', sans-serif;
-}
-
 .container{
   width: 100%;
   max-width: 1000px;
@@ -54,4 +47,23 @@ header.slant-header {
 
 .navbar{
   background: #fa6872;
+}
+
+.hanging-light-bulb{
+  z-index: 10;
+  position: absolute;
+  top: 0;
+  left: 49%;
+  .light-hanger{
+    width: 2px;
+    height: 40px;
+    background: white;
+  }
+  img{
+    margin-left: -19px;
+    -ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+    width: 40px;
+  }
 }

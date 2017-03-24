@@ -58,6 +58,16 @@ layout: default
         </div> -->
         <div class="card w-100">
           <div class="card-block">
+            <h5 class="text-success">New Posts</h5>
+            {% for post in site.categories['products'] limit:3 %}
+              <hr />
+              <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+              <img class="w-100" src="{{ site.baseurl }}/img/{{ post.categories.first }}/{{ post.title | slugify }}/thumbnail.jpg">
+            {% endfor %}
+          </div>
+        </div>
+        <div class="card w-100 mt-4">
+          <div class="card-block">
             <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=6c7696a8-156c-49e7-b511-08c9b92db684"></script>
           </div>
         </div>

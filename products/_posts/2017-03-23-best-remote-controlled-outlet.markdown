@@ -4,7 +4,7 @@ price: $29.98
 link: http://amzn.to/2mxPdS0
 ---
 
-Remember [the Clapper](http://amzn.to/2nOoD7i)? "Clap on... clap off... the clapper!" Feels like they were a staple TV ad when I was growing up. These days, the options to control lights and outlets are endless, and I wouldn't recommend the Clapper to a friend.
+Remember [the Clapper](http://amzn.to/2nOoD7i)? "Clap on... clap off... the clapper!" Feels like they were a staple TV ad when I was growing up. These days, the options to control lights and outlets are endless, and I wouldn't necessarily recommend the Clapper.
 
 I have personally tested numerous switches and controllers and have found one that far exceeds the rest. The Etekcity Wireless Remote Control Electrical Outlet (also known as the Etekcity Zap) is the best piece of tech I have bought in years. The system is extremely user friendly, just plug one of the Etekcity outlets into any existing outlet in your home. Once you plug a device into Etekcity outlet, it can easily be controlled by a portable remote.
 

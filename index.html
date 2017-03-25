@@ -16,14 +16,8 @@ layout: default
       <a class="card post-card mb-3" href="{{ post.url | prepend: site.baseurl }}">
         <img class="w-100" src="{{ site.baseurl }}/img/{{ post.categories.first }}/{{ post.title | slugify }}/thumbnail.jpg">
         <div class="card-block">
-          <!-- <a class="small-post" href="{{ post.url | prepend: site.baseurl }}"> -->
-            <!-- <div class="small-post__thumbnail mb-3" style="background-image: url( {{ site.baseurl }}/img/posts/{{ post.title | slugify }}/main.jpg )"></div> -->
-  <!--           <div class="small-post__title">{{ post.title }}</div>
-            <div class="text-muted small-post__date">{{ post.date | date_to_long_string }}</div> -->
-            <!-- {{ post.excerpt }} -->
-          <!-- </a> -->
-            <h5 class="card-title">{{ post.title }}</h5>
-            <p class="card-text"><small class="text-muted">Last updated {{ post.date | date: "%B %d, %Y" }}</small></p>
+          <h5 class="card-title">{{ post.title }}</h5>
+          <p class="card-text"><small class="text-muted">Last updated {{ post.date | date: "%B %d, %Y" }}</small></p>
         </div>
       </a>
     {% endfor %}

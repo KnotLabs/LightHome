@@ -10,7 +10,7 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-md-9">
-        <div class="post-content card w-100">
+        <div class="card w-100">
           <div class="card-block">
             <div class="clearfix">
               <div class="clearfix">
@@ -18,10 +18,10 @@ layout: default
                 <a href="{{ page.link }}" class="btn btn-danger btn-danger-special float-right">Buy on Amazon for {{ page.price }}</a>
               </div>
               <hr />
-              <p>
-                <img src='{{ site.baseurl }}/img/{{ page.categories.first }}/{{ page.title | slugify }}/thumbnail.jpg'>
-              </p>
-              {{ content }}
+              <div class="markdown-content">
+                <p><img src='{{ site.baseurl }}/img/{{ page.categories.first }}/{{ page.title | slugify }}/thumbnail.jpg'></p>
+                {{ content }}
+              </div>
             </div>
             <hr />
             <a href="{{ page.link }}" class="btn btn-danger btn-danger-special center">Buy on Amazon for {{ page.price }}</a>
@@ -64,7 +64,8 @@ layout: default
                 <hr />
                 <a href="{{ site.baseurl }}{{ post.url }}">
                   {{ post.title }}
-                  <img class="w-100" src="{{ site.baseurl }}/img/{{ post.categories.first }}/{{ post.title | slugify }}/thumbnail.jpg">
+                  <!-- <small class="text-muted d-block my-2">Last updated {{ post.date | date: "%B %d, %Y" }}</small> -->
+                  <img class="w-100 mt-2" src="{{ site.baseurl }}/img/{{ post.categories.first }}/{{ post.title | slugify }}/thumbnail.jpg">
                 </a>
               {% endunless %}
             {% endfor %}

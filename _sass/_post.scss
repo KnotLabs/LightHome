@@ -17,10 +17,27 @@
   }
 }
 
-.post-content{
+.markdown-content{
   img{
     width: 100%;
     margin: 0.5rem 0;
+  }
+
+  blockquote {
+    text-indent: 2rem;
+    font-size: 1.5rem;
+    color: #5bc0de;
+    font-style: italic;
+    &:before, &:after{
+      content: '"'
+    }
+  }
+
+  h1, h2, h3, h4{
+    display: block;
+    padding-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(0,0,0,.1);
   }
 
   @media (min-width: 576px){
@@ -38,5 +55,4 @@
       margin: 0.5rem 0 0.5rem 1rem;
     }
   }
-
 }

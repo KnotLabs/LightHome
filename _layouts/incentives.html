@@ -5,28 +5,24 @@ layout: default
 
   <header class="post-header mb-4">
     <h1 class="post-title">{{ page.title }}</h1>
+    <h4 class="post-subtitle">State LED Incentives and Rebates</h4>
   </header>
 
   <div class="container">
     <div class="row">
       <div class="col-md-9">
         <div class="card w-100">
+          <div class="card-img-top embed-responsive embed-responsive-16by9">
+            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kZWiT_NVouA" frameborder="0" allowfullscreen></iframe>
+          </div>
           <div class="card-block">
-            <div class="clearfix">
-              <div class="clearfix">
-                <h4 class="float-left mt-1">{{ page.title }}</h4>
-                <a href="{{ page.link }}" class="btn btn-danger btn-danger-special float-right">Buy on Amazon for {{ page.price }}</a>
-              </div>
-              <hr />
-              <div class="markdown-content">
-                <p><img src='{{ site.baseurl }}/img/{{ page.categories.first }}/{{ page.title | slugify }}/thumbnail.jpg'></p>
-                {{ content }}
-              </div>
+            <small class="text-muted">Last updated {{ page.date | date: "%B %d, %Y" }}</small>
+            <div class="markdown-content">
+              {{ content }}
             </div>
             <hr />
-            <a href="{{ page.link }}" class="btn btn-danger btn-danger-special center">Buy on Amazon for {{ page.price }}</a>
-            <hr />
             <h4>Responses</h4>
+            <p>If you know of any rebates or incentives that we missed please leave a comment below so we can incorporate the feedback into the post.</p>
             <div id="disqus_thread"></div>
           </div>
         </div>
@@ -65,7 +61,7 @@ layout: default
 
 var disqus_config = function () {
   this.page.url = '{{ site.url }}{{ page.url }}';  // Replace PAGE_URL with your page's canonical URL variable
-  this.page.identifier = '{{ page.title | slugify }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  this.page.identifier = 'incentives_{{ page.title | slugify }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE

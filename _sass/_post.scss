@@ -7,13 +7,17 @@
 .post-header{
   background-image: linear-gradient(#fa6872, #fa9269);
   width: 100%;
+  padding: 4rem 1rem;
   a:hover{
     text-decoration: none;
   }
   .post-title{
     text-align: center;
     color: white;
-    padding: 4rem 1rem;
+  }
+  .post-subtitle{
+    text-align: center;
+    color: rgba(255,255,255,0.75);
   }
 }
 
@@ -54,5 +58,32 @@
       float: right;
       margin: 0.5rem 0 0.5rem 1rem;
     }
+  }
+}
+
+.color-changing-row {
+  .col-sm-6 .card {
+    font-weight: 400;
+    color: white;
+    text-decoration: none !important;
+    text-align: center;
+    &:hover{
+      box-shadow: 0 0 10px rgba(0,0,0,.4);
+    }
+  }
+  .col-sm-6:nth-child(5n+1) .card {
+    background: lighten(#0275d8, 20%);
+  }
+  .col-sm-6:nth-child(5n+2) .card {
+    background: lighten(#5cb85c, 10%);
+  }
+  .col-sm-6:nth-child(5n+3) .card {
+    background: lighten(#f0ad4e, 5%);
+  }
+  .col-sm-6:nth-child(5n+4) .card {
+    background: lighten(#d9534f, 7%);
+  }
+  .col-sm-6:nth-child(5n+5) .card {
+    background: lighten(#AC58FA, 7%);
   }
 }

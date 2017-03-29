@@ -19,8 +19,13 @@ layout: default
               </div>
               <hr />
               <div class="markdown-content">
-                <p><img src='{{ site.baseurl }}/img/{{ page.categories.first }}/{{ page.title | slugify }}/thumbnail.jpg'></p>
+                <p><img src='{{ site.url }}/img/{{ page.categories.first }}/{{ page.title | slugify }}/thumbnail.jpg'></p>
                 {{ content }}
+                <p class="text-center">
+                  Happy Lighting,
+                  <br/>
+                  <a href="{{ }}">Mr. LightHome</a>
+                </p>
               </div>
             </div>
             <hr />
@@ -38,10 +43,10 @@ layout: default
             {% for post in site.categories['products'] limit:4 %}
               {% unless post.title == page.title %}
                 <hr />
-                <a href="{{ site.baseurl }}{{ post.url }}">
+                <a href="{{ site.url }}{{ post.url }}">
                   {{ post.title }}
                   <!-- <small class="text-muted d-block my-2">Last updated {{ post.date | date: "%B %d, %Y" }}</small> -->
-                  <img class="w-100 mt-2" src="{{ site.baseurl }}/img/{{ post.categories.first }}/{{ post.title | slugify }}/thumbnail.jpg">
+                  <img class="w-100 mt-2" src="{{ site.url }}/img/{{ post.categories.first }}/{{ post.title | slugify }}/thumbnail.jpg">
                 </a>
               {% endunless %}
             {% endfor %}

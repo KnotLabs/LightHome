@@ -63,7 +63,7 @@ layout: default
         <div class="row color-changing-row">
           {% for post in site.categories['state-led-incentives-and-rebates'] %}
             <div class="col-md-4 col-sm-6 mb-3">
-              <a href="{{ post.url | prepend: site.baseurl }}" class="card">
+              <a href="{{ post.url | prepend: site.url }}" class="card">
                 <div class="card-block">
                   <h5 class="m-0">{{ post.title }}</h5>
                 </div>

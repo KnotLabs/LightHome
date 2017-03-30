@@ -14,11 +14,16 @@ header.slant-header {
   position: relative;
   height: 300px;
   background-image: linear-gradient(#fa6872, #fa9269);
+  padding: 3rem 0;
 
   h1 {
     color: white;
-    padding: 100px 0;
     text-align: center;
+  }
+
+  p {
+    color: rgba(255,255,255,0.8);
+    max-width: 50rem;
   }
 
   svg {
